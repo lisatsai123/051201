@@ -1,0 +1,308 @@
+@charset "utf-8";
+.container {
+	left: auto;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+h1 {
+	color: #2B3911;
+	text-align: center;
+	padding-bottom: 0px;
+	margin-left: 59px;
+}
+nav {
+	text-align: center;
+	margin-right: 30px;
+	display: flex;
+	align-items: flex-start;
+	width: 100%;
+	background-color: #CEB1F8;
+	opacity: 0.8;
+	margin-top: -70px;
+	flex-direction: column;
+	height: 70px;
+	position: fixed;
+}
+main {
+	margin-top: -65px;
+
+
+}
+.box01   {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.col01 {
+	background-color: #010101;
+	width: 300px;
+	height: 27px;
+	color: #F3F2F2;
+	border-bottom-left-radius: 18px;
+	border-bottom-right-radius: 18px;
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: -27px;
+	opacity: 0.8;
+}
+
+
+
+
+a:link {
+	color: #38584B;
+	text-decoration: none;
+	margin-right: 23px;
+}
+a:hover {
+	color: #E8E756;
+	text-decoration: underline;
+	font-size: medium;
+}
+a:visited {
+	color: #AAA93C;
+}
+article h3 {
+	background-color: #C9C8EB;
+	color: #153A21;
+	border-radius: 36px;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 710px;
+	margin-top: -1px;
+
+
+}
+
+h4 {
+	text-align: center;
+
+
+
+
+}
+
+h5 {
+	color: #7B75F9;
+		
+}
+header h3 {
+	margin-top: 67px;
+	text-align: center;
+	color: #E3D25D;
+	line-height: 200px;
+
+}
+header p {
+	text-align: center;
+	color: #3B014E;
+	line-height: 200px;
+	margin-top: -148px;
+	font-size: medium;
+}
+
+header {
+	background-image: url(%E7%B4%A0%E6%9D%90/background.jpg);
+	height: 200px;
+	background-size: cover;
+	background-position: center center;
+}
+.col02 {
+	background-color: #010101;
+	width: 300px;
+	height: 27px;
+	color: #F3F2F2;
+	border-bottom-left-radius: 18px;
+	border-bottom-right-radius: 18px;
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: -27px;
+	opacity: 0.8;
+}
+.col01 {
+	background-color: #010101;
+	width: 300px;
+	height: 27px;
+	color: #F3F2F2;
+	border-bottom-left-radius: 18px;
+	border-bottom-right-radius: 18px;
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: -27px;
+	opacity: 0.8;
+}
+.colt01   {
+	text-align: left;
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	margin-top: 20px;
+	background-image: url(%E7%B4%A0%E6%9D%90/%E5%8F%B0%E5%8C%97%E3%83%BB%E5%8F%B0%E5%8C%97%E5%B8%82%E7%AB%8B%E5%9C%96%E6%9B%B8%E9%A4%A8%E5%8C%97%E6%8A%95%E5%88%86%E9%A4%A8/taipei02.jpg);
+}
+.colt02 {
+	width: 300px;
+	height: 198px;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-image: url(%E7%B4%A0%E6%9D%90/%E5%8F%B0%E5%8C%97%E3%83%BB%E5%8F%B0%E5%8C%97%E5%B8%82%E7%AB%8B%E5%9C%96%E6%9B%B8%E9%A4%A8%E5%8C%97%E6%8A%95%E5%88%86%E9%A4%A8/taipei01.jpg);
+	background-position: center center;
+	background-size: contain;
+}
+.colt11 {
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-size: cover;
+	margin-top: 20px;
+	background-image: url(%E7%B4%A0%E6%9D%90/%E7%BE%8E%E5%9C%8B%E5%B7%B4%E7%88%BE%E7%9A%84%E6%91%A9%E7%B4%84%E7%BF%B0%E9%9C%8D%E6%99%AE%E9%87%91%E6%96%AF%E5%A4%A7%E5%AD%B8%E5%96%AC%E6%B2%BB%E7%9A%AE%E5%8D%9A%E8%BF%AA%E5%9C%96%E6%9B%B8%E9%A4%A8/america01.jpg);
+}
+.colt12 {
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-size: cover;
+	background-image: url(%E7%B4%A0%E6%9D%90/%E7%BE%8E%E5%9C%8B%E5%B7%B4%E7%88%BE%E7%9A%84%E6%91%A9%E7%B4%84%E7%BF%B0%E9%9C%8D%E6%99%AE%E9%87%91%E6%96%AF%E5%A4%A7%E5%AD%B8%E5%96%AC%E6%B2%BB%E7%9A%AE%E5%8D%9A%E8%BF%AA%E5%9C%96%E6%9B%B8%E9%A4%A8/america%2002.jfif);
+}
+
+
+.colt03 {
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-size: cover;
+	margin-top: 20px;
+	background-image: url(%E7%B4%A0%E6%9D%90/%E5%9C%8B%E9%9A%9B%E5%85%92%E7%AB%A5%E5%9C%96%E6%9B%B8%E9%A4%A8/japan01.jfif);
+}
+.colt05 {
+	background-image: url(%E7%B4%A0%E6%9D%90/%E5%B7%B4%E9%BB%8E%E5%9C%8B%E7%AB%8B%E5%9C%96%E6%9B%B8%E9%A4%A8/paris01.jpg);
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	margin-top: 20px;
+}
+.colt07 {
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	margin-top: 20px;
+	background-image: url(%E7%B4%A0%E6%9D%90/%E9%83%BD%E6%9F%8F%E6%9E%97%E8%81%96%E4%B8%89%E4%B8%80%E5%AD%B8%E9%99%A2%E5%9C%96%E6%9B%B8%E9%A4%A8/england01.jfif);
+}
+.colt08 {
+	background-image: url(%E7%B4%A0%E6%9D%90/%E9%83%BD%E6%9F%8F%E6%9E%97%E8%81%96%E4%B8%89%E4%B8%80%E5%AD%B8%E9%99%A2%E5%9C%96%E6%9B%B8%E9%A4%A8/england02.jpg);
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-size: cover;
+}
+.colt13 {
+	background-image: url(%E7%B4%A0%E6%9D%90/%E7%B4%90%E7%B4%84%E5%85%AC%E5%85%B1%E5%9C%96%E6%9B%B8%E9%A4%A8/A1528945376.jpg);
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	margin-top: 20px;
+}
+.colt14 {
+	background-image: url(%E7%B4%A0%E6%9D%90/%E7%B4%90%E7%B4%84%E5%85%AC%E5%85%B1%E5%9C%96%E6%9B%B8%E9%A4%A8/New_York_Public_Library_May_2011.JPG);
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+}
+.colt15 {
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	margin-top: 20px;
+	background-image: url(%E7%B4%A0%E6%9D%90/%E7%B6%AD%E5%A4%9A%E5%88%A9%E4%BA%9E%E5%B7%9E%E7%AB%8B%E5%9C%96%E6%9B%B8%E9%A4%A8/europe01.jpg);
+}
+.colt16 {
+	background-image: url(%E7%B4%A0%E6%9D%90/%E7%B6%AD%E5%A4%9A%E5%88%A9%E4%BA%9E%E5%B7%9E%E7%AB%8B%E5%9C%96%E6%9B%B8%E9%A4%A8/europe02.jpg);
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-size: cover;
+}
+
+
+
+
+.colt09 {
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-size: cover;
+	margin-top: 20px;
+	background-image: url(%E7%B4%A0%E6%9D%90/%E9%9D%9E%E6%B4%B2%E5%A1%94%E5%8D%9A%C2%B7%E5%A7%86%E8%B2%9D%E5%9F%BA%E7%B8%BD%E7%B5%B1%E5%9C%96%E6%9B%B8%E9%A4%A8/africa01.jpg);
+}
+.colt10 {
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-image: url(%E7%B4%A0%E6%9D%90/%E9%9D%9E%E6%B4%B2%E5%A1%94%E5%8D%9A%C2%B7%E5%A7%86%E8%B2%9D%E5%9F%BA%E7%B8%BD%E7%B5%B1%E5%9C%96%E6%9B%B8%E9%A4%A8/africa02.jpg);
+}
+
+
+
+
+.colt06 {
+	background-image: url(%E7%B4%A0%E6%9D%90/%E5%B7%B4%E9%BB%8E%E5%9C%8B%E7%AB%8B%E5%9C%96%E6%9B%B8%E9%A4%A8/paris02.jpg);
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+}
+
+
+.colt04 {
+	background-image: url(%E7%B4%A0%E6%9D%90/%E5%9C%8B%E9%9A%9B%E5%85%92%E7%AB%A5%E5%9C%96%E6%9B%B8%E9%A4%A8/japan02.jpg);
+	width: 300px;
+	height: 198px;
+	background-position: center center;
+	border-bottom-left-radius: 18px 18px;
+	border-bottom-right-radius: 18px 18px;
+	background-size: cover;
+}
+.parallaxie{
+
+}
+.map {
+margin-left: 570px;
+
+}
+
+
+
+.country {
+	background-color: #BCADAD;
+}
